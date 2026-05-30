@@ -26,6 +26,18 @@ This Power BI dashboard provides insights into sales performance, profitability,
 
 ![Dashboard](Screenshots/Dashboard.png)
 
-## Author
+## Key Insights
 
-Ayush Chanekar
+- Technology category generated the highest sales.
+- New York City was the top-performing city.
+- Top customers contributed significantly to revenue.
+- Monthly sales trends revealed seasonal patterns.
+
+## Skills Demonstrated
+
+- Data Cleaning (Power Query)
+- Data Modeling
+- DAX Measures
+- KPI Reporting
+- Data Visualization
+- Business Intelligence
